@@ -1,0 +1,20 @@
+
+#contents{
+    display: flex;
+    top:300px;
+    width: 480px;
+    height: 100px;
+    background-color: rgb(255, 106, 0);
+}
+#contents>#cont1{
+    top:300px;
+    width:480px;
+    height:200px;
+     background-color: chartreuse;
+}
+#contents>#cont2{
+    top:300px;
+    width:480px;
+    height:200px;
+    background-color: brown;
+}
